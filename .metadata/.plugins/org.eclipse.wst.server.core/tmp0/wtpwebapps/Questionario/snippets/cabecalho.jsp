@@ -8,5 +8,6 @@
 <link rel="stylesheet"
 	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css">
 <link rel="stylesheet" href="assets/css/styles.css">
-
+<link rel="icon" href="assets/imagem/ar.ico" type="image/x-icon" />
+<title>ÁBACO Research</title>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>

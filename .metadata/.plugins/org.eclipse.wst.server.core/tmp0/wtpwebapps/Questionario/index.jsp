@@ -5,7 +5,6 @@
 <html>
 <head>
 <jsp:include page="snippets/cabecalho.jsp"></jsp:include>
-<title>ÁBACO Research</title>
 </head>
 <body>
 	<jsp:include page="snippets/menu.jsp"></jsp:include>
