@@ -1,0 +1,6 @@
+INDEX VERSION 1.130+C:\Users\E5410\Documents\Questionario\.metadata\.plugins\org.eclipse.jdt.core
+3834717619.index
+2526324090.index
+759454777.index
+507933310.index
+959187239.index

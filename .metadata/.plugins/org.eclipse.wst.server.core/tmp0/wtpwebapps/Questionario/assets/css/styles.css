@@ -1,0 +1,16 @@
+body { padding-top: 70px; 
+background-color: #800000;
+}
+
+.no-margin {
+	margin: 0 !important;
+}
+
+.actions {
+	white-space: nowrap;
+	width: 1px;
+}
+
+.panel-heading-btn .panel-title {
+	padding-top: 8px;
+}
